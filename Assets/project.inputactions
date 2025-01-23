@@ -1,0 +1,54 @@
+{
+    "name": "project",
+    "maps": [
+        {
+            "name": "player",
+            "id": "5f6b555e-2dd6-40b0-9fee-1806197e19e5",
+            "actions": [
+                {
+                    "name": "move",
+                    "type": "Button",
+                    "id": "c38f2e3c-19e5-4ad9-8abc-24a5dd3c8296",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "jump",
+                    "type": "Button",
+                    "id": "8b848cd1-2efb-4614-a2bf-4f9b7baa737c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f663eb7c-446d-4fef-9411-070a5d545074",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2f4ae7a1-9693-46ec-86c2-41ebe8afdcb8",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
